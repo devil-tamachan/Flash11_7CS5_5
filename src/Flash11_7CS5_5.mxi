@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<macromedia-extension
+ name="Flash 11.7 in FlashPro CS5.5"
+ version="1.0.0"
+ requires-restart="true"
+ type="Library">
+
+ <author name="devil.tamachan@gmail.com"/>
+
+ <products>
+  <product name="Flash" version="11" primary="true" />
+ </products>
+
+ <description>
+  <![CDATA[Flash 11.7 in FlashPro CS5.5]]>
+ </description>
+
+ <ui-access>
+  <![CDATA[Publish Settings]]>
+ </ui-access>
+
+ <license-agreement>
+  <![CDATA[]]>
+ </license-agreement>
+
+ <files>
+  <file name="FlashPlayer11_0.xml" destination="$RootFolder/Common/Configuration/Players" />
+  <file name="FlashPlayer11_1.xml" destination="$RootFolder/Common/Configuration/Players" />
+  <file name="FlashPlayer11_2.xml" destination="$RootFolder/Common/Configuration/Players" />
+  <file name="FlashPlayer11_3.xml" destination="$RootFolder/Common/Configuration/Players" />
+  <file name="FlashPlayer11_4.xml" destination="$RootFolder/Common/Configuration/Players" />
+  <file name="FlashPlayer11_5.xml" destination="$RootFolder/Common/Configuration/Players" />
+  <file name="FlashPlayer11_6.xml" destination="$RootFolder/Common/Configuration/Players" />
+  <file name="FlashPlayer11_7.xml" destination="$RootFolder/Common/Configuration/Players" />
+  <file name="FP11.0/playerglobal.swc" destination="$RootFolder/Common/Configuration/ActionScript 3.0/FP11.0" />
+  <file name="FP11.1/playerglobal.swc" destination="$RootFolder/Common/Configuration/ActionScript 3.0/FP11.1" />
+  <file name="FP11.2/playerglobal.swc" destination="$RootFolder/Common/Configuration/ActionScript 3.0/FP11.2" />
+  <file name="FP11.3/playerglobal.swc" destination="$RootFolder/Common/Configuration/ActionScript 3.0/FP11.3" />
+  <file name="FP11.4/playerglobal.swc" destination="$RootFolder/Common/Configuration/ActionScript 3.0/FP11.4" />
+  <file name="FP11.5/playerglobal.swc" destination="$RootFolder/Common/Configuration/ActionScript 3.0/FP11.5" />
+  <file name="FP11.6/playerglobal.swc" destination="$RootFolder/Common/Configuration/ActionScript 3.0/FP11.6" />
+  <file name="FP11.7/playerglobal.swc" destination="$RootFolder/Common/Configuration/ActionScript 3.0/FP11.7" />
+ </files>
+
+</macromedia-extension>
