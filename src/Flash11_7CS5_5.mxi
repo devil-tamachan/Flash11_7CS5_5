@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <macromedia-extension
  name="Flash 11.7 in FlashPro CS5.5"
- version="1.0.0"
+ version="1.1.0"
  requires-restart="true"
  type="Library">
 
@@ -32,6 +32,9 @@
   <file name="FlashPlayer11_5.xml" destination="$RootFolder/Common/Configuration/Players" />
   <file name="FlashPlayer11_6.xml" destination="$RootFolder/Common/Configuration/Players" />
   <file name="FlashPlayer11_7.xml" destination="$RootFolder/Common/Configuration/Players" />
+  <file name="FlashPlayer11_8.xml" destination="$RootFolder/Common/Configuration/Players" />
+  <file name="FlashPlayer11_9.xml" destination="$RootFolder/Common/Configuration/Players" />
+  <file name="FlashPlayer12_0.xml" destination="$RootFolder/Common/Configuration/Players" />
   <file name="FP11.0/playerglobal.swc" destination="$RootFolder/Common/Configuration/ActionScript 3.0/FP11.0" />
   <file name="FP11.1/playerglobal.swc" destination="$RootFolder/Common/Configuration/ActionScript 3.0/FP11.1" />
   <file name="FP11.2/playerglobal.swc" destination="$RootFolder/Common/Configuration/ActionScript 3.0/FP11.2" />
@@ -40,6 +43,9 @@
   <file name="FP11.5/playerglobal.swc" destination="$RootFolder/Common/Configuration/ActionScript 3.0/FP11.5" />
   <file name="FP11.6/playerglobal.swc" destination="$RootFolder/Common/Configuration/ActionScript 3.0/FP11.6" />
   <file name="FP11.7/playerglobal.swc" destination="$RootFolder/Common/Configuration/ActionScript 3.0/FP11.7" />
+  <file name="FP11.8/playerglobal.swc" destination="$RootFolder/Common/Configuration/ActionScript 3.0/FP11.8" />
+  <file name="FP11.9/playerglobal.swc" destination="$RootFolder/Common/Configuration/ActionScript 3.0/FP11.9" />
+  <file name="FP12.0/playerglobal.swc" destination="$RootFolder/Common/Configuration/ActionScript 3.0/FP12.0" />
  </files>
 
 </macromedia-extension>
