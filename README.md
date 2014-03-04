@@ -3,6 +3,8 @@ Flash11_7CS5_5
 
 Flash 11.0 - 12.0 Support for Flash Pro CS 5&amp;5.5
 
+https://github.com/devil-tamachan/Flash11_7CS5_5/raw/master/Flash11_7CS5_5.zxp
+
 How to use:
 
 1. Download "Flash11_7CS5_5.zxp"
